@@ -1,0 +1,1200 @@
+id	numeric	421537
+recordingid	string	nd6R77519
+shotid	string	2010_117_033_L_1_1L-lg2200.tiff
+sequenceid	string	06245d37
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00016,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611039
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:34
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611039
+userkey	string	2010_117_033_L_1_1L-lg2200.tiff
+checksum	string	2a8d5056ad1257e5223b529d406decf4
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:38:59
+fstate	string	ok
+replicaid	numeric	2881305
+fileid	numeric	611039
+host	string	ccl06.cse.nd.edu
+path	string	bxgrid/2/2/611039_2881305.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:38:59
+name	string	ccl06.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d37.tiff
+
+id	numeric	421538
+recordingid	string	nd6R77520
+shotid	string	2010_117_033_L_1_1R-lg2200.tiff
+sequenceid	string	06245d38
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00017,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611040
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:34
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611040
+userkey	string	2010_117_033_L_1_1R-lg2200.tiff
+checksum	string	f5d3fbe738b23e62a59534626473f902
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:38:59
+fstate	string	ok
+replicaid	numeric	2881308
+fileid	numeric	611040
+host	string	ccl04.cse.nd.edu
+path	string	bxgrid/1/5/611040_2881308.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:38:59
+name	string	ccl04.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d38.tiff
+
+id	numeric	421539
+recordingid	string	nd6R77521
+shotid	string	2010_117_033_L_1_1T-lg2200.tiff
+sequenceid	string	06245d39
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00015,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611041
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:35
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611041
+userkey	string	2010_117_033_L_1_1T-lg2200.tiff
+checksum	string	2b2c240007c38a9dc872680c7c1989b3
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:38:59
+fstate	string	ok
+replicaid	numeric	2881311
+fileid	numeric	611041
+host	string	ccl06.cse.nd.edu
+path	string	bxgrid/9/9/611041_2881311.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:38:59
+name	string	ccl06.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d39.tiff
+
+id	numeric	421540
+recordingid	string	nd6R77522
+shotid	string	2010_117_033_L_1_2L-lg2200.tiff
+sequenceid	string	06245d40
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00016,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611042
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:36
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611042
+userkey	string	2010_117_033_L_1_2L-lg2200.tiff
+checksum	string	094c7a934c5b7f8353ea7f634eeaf842
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:38:59
+fstate	string	ok
+replicaid	numeric	2881314
+fileid	numeric	611042
+host	string	ccl07.cse.nd.edu
+path	string	bxgrid/0/5/611042_2881314.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:38:59
+name	string	ccl07.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d40.tiff
+
+id	numeric	421541
+recordingid	string	nd6R77523
+shotid	string	2010_117_033_L_1_2R-lg2200.tiff
+sequenceid	string	06245d41
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00017,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611043
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:37
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611043
+userkey	string	2010_117_033_L_1_2R-lg2200.tiff
+checksum	string	9cbd3b1cddedee144426c569480345f3
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:38:59
+fstate	string	ok
+replicaid	numeric	2881317
+fileid	numeric	611043
+host	string	ccl04.cse.nd.edu
+path	string	bxgrid/9/4/611043_2881317.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:38:59
+name	string	ccl04.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d41.tiff
+
+id	numeric	421542
+recordingid	string	nd6R77524
+shotid	string	2010_117_033_L_1_2T-lg2200.tiff
+sequenceid	string	06245d42
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00015,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611044
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:38
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611044
+userkey	string	2010_117_033_L_1_2T-lg2200.tiff
+checksum	string	f4ea6315c23ee9905c4d92ee5c3e08ec
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:38:59
+fstate	string	ok
+replicaid	numeric	2881320
+fileid	numeric	611044
+host	string	ccl00.cse.nd.edu
+path	string	bxgrid/9/1/611044_2881320.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:38:59
+name	string	ccl00.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d42.tiff
+
+id	numeric	421543
+recordingid	string	nd6R77525
+shotid	string	2010_117_033_L_1_3L-lg2200.tiff
+sequenceid	string	06245d43
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00016,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611045
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:39
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611045
+userkey	string	2010_117_033_L_1_3L-lg2200.tiff
+checksum	string	f345acacb222e8b720dfbffc59875d39
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:38:59
+fstate	string	ok
+replicaid	numeric	2881323
+fileid	numeric	611045
+host	string	ccl06.cse.nd.edu
+path	string	bxgrid/6/3/611045_2881323.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:38:59
+name	string	ccl06.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d43.tiff
+
+id	numeric	421544
+recordingid	string	nd6R77526
+shotid	string	2010_117_033_L_1_3R-lg2200.tiff
+sequenceid	string	06245d44
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00017,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611046
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:40
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611046
+userkey	string	2010_117_033_L_1_3R-lg2200.tiff
+checksum	string	e2e9406ae49b06262faab7d95b952db0
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881326
+fileid	numeric	611046
+host	string	ccl04.cse.nd.edu
+path	string	bxgrid/5/3/611046_2881326.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:38:59
+name	string	ccl04.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d44.tiff
+
+id	numeric	421545
+recordingid	string	nd6R77527
+shotid	string	2010_117_033_L_1_3T-lg2200.tiff
+sequenceid	string	06245d45
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00015,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611047
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:40
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611047
+userkey	string	2010_117_033_L_1_3T-lg2200.tiff
+checksum	string	a984ad537170c879e1778c9e65bab596
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881329
+fileid	numeric	611047
+host	string	ccl07.cse.nd.edu
+path	string	bxgrid/2/8/611047_2881329.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl07.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d45.tiff
+
+id	numeric	421546
+recordingid	string	nd6R77528
+shotid	string	2010_117_033_L_1_4L-lg2200.tiff
+sequenceid	string	06245d46
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00016,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611048
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:41
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611048
+userkey	string	2010_117_033_L_1_4L-lg2200.tiff
+checksum	string	6d1f80dd80d7edbc3b4812aa315ef3f8
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881332
+fileid	numeric	611048
+host	string	ccl04.cse.nd.edu
+path	string	bxgrid/1/3/611048_2881332.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl04.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d46.tiff
+
+id	numeric	421547
+recordingid	string	nd6R77529
+shotid	string	2010_117_033_L_1_4R-lg2200.tiff
+sequenceid	string	06245d47
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00017,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611049
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:42
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611049
+userkey	string	2010_117_033_L_1_4R-lg2200.tiff
+checksum	string	c00b5cbcc31930197a2e4409aa17f406
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881335
+fileid	numeric	611049
+host	string	ccl06.cse.nd.edu
+path	string	bxgrid/7/4/611049_2881335.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl06.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d47.tiff
+
+id	numeric	421548
+recordingid	string	nd6R77530
+shotid	string	2010_117_033_L_1_4T-lg2200.tiff
+sequenceid	string	06245d48
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Left
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00015,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611050
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:43
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611050
+userkey	string	2010_117_033_L_1_4T-lg2200.tiff
+checksum	string	a9a169244e370727383bddcdc179f4b8
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881338
+fileid	numeric	611050
+host	string	ccl04.cse.nd.edu
+path	string	bxgrid/3/7/611050_2881338.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl04.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d48.tiff
+
+id	numeric	421549
+recordingid	string	nd6R77531
+shotid	string	2010_117_033_R_1_1L-lg2200.tiff
+sequenceid	string	06245d49
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00016,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611051
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:44
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611051
+userkey	string	2010_117_033_R_1_1L-lg2200.tiff
+checksum	string	ba84e55a273be1b1d55b153ca05402c0
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881341
+fileid	numeric	611051
+host	string	ccl03.cse.nd.edu
+path	string	bxgrid/3/1/611051_2881341.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl03.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d49.tiff
+
+id	numeric	421550
+recordingid	string	nd6R77532
+shotid	string	2010_117_033_R_1_1R-lg2200.tiff
+sequenceid	string	06245d50
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00017,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611052
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:45
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611052
+userkey	string	2010_117_033_R_1_1R-lg2200.tiff
+checksum	string	f2b602136cf336ec8039ad6f2599ea1c
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881344
+fileid	numeric	611052
+host	string	ccl04.cse.nd.edu
+path	string	bxgrid/8/3/611052_2881344.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl04.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d50.tiff
+
+id	numeric	421551
+recordingid	string	nd6R77533
+shotid	string	2010_117_033_R_1_1T-lg2200.tiff
+sequenceid	string	06245d51
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00015,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611053
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:46
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611053
+userkey	string	2010_117_033_R_1_1T-lg2200.tiff
+checksum	string	1b491b5a3fda9e5c1761a60cd1a260fb
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881347
+fileid	numeric	611053
+host	string	ccl07.cse.nd.edu
+path	string	bxgrid/0/0/611053_2881347.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl07.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d51.tiff
+
+id	numeric	421552
+recordingid	string	nd6R77534
+shotid	string	2010_117_033_R_1_2L-lg2200.tiff
+sequenceid	string	06245d52
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00016,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611054
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:46
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611054
+userkey	string	2010_117_033_R_1_2L-lg2200.tiff
+checksum	string	7ec93db9f61c0e333d9a6d820c9e9840
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881350
+fileid	numeric	611054
+host	string	ccl03.cse.nd.edu
+path	string	bxgrid/1/5/611054_2881350.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl03.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d52.tiff
+
+id	numeric	421553
+recordingid	string	nd6R77535
+shotid	string	2010_117_033_R_1_2R-lg2200.tiff
+sequenceid	string	06245d53
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00017,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611055
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:47
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611055
+userkey	string	2010_117_033_R_1_2R-lg2200.tiff
+checksum	string	2a5cbfdf8a93b861ded85819b1df3435
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881353
+fileid	numeric	611055
+host	string	ccl03.cse.nd.edu
+path	string	bxgrid/8/3/611055_2881353.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl03.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d53.tiff
+
+id	numeric	421554
+recordingid	string	nd6R77536
+shotid	string	2010_117_033_R_1_2T-lg2200.tiff
+sequenceid	string	06245d54
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00015,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611056
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:48
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611056
+userkey	string	2010_117_033_R_1_2T-lg2200.tiff
+checksum	string	7178c62458ba60af7c49d1e3995fe653
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881356
+fileid	numeric	611056
+host	string	ccl05.cse.nd.edu
+path	string	bxgrid/6/4/611056_2881356.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl05.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d54.tiff
+
+id	numeric	421555
+recordingid	string	nd6R77537
+shotid	string	2010_117_033_R_1_3L-lg2200.tiff
+sequenceid	string	06245d55
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00016,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611057
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:49
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611057
+userkey	string	2010_117_033_R_1_3L-lg2200.tiff
+checksum	string	99b245534a08d2fab3836d6fa9da9f30
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:00
+fstate	string	ok
+replicaid	numeric	2881359
+fileid	numeric	611057
+host	string	ccl06.cse.nd.edu
+path	string	bxgrid/9/1/611057_2881359.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:00
+name	string	ccl06.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d55.tiff
+
+id	numeric	421556
+recordingid	string	nd6R77538
+shotid	string	2010_117_033_R_1_3R-lg2200.tiff
+sequenceid	string	06245d56
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00017,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611058
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:50
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611058
+userkey	string	2010_117_033_R_1_3R-lg2200.tiff
+checksum	string	a68cd919fc86955d62598e8afed833b3
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:01
+fstate	string	ok
+replicaid	numeric	2881362
+fileid	numeric	611058
+host	string	ccl00.cse.nd.edu
+path	string	bxgrid/7/4/611058_2881362.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:01
+name	string	ccl00.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d56.tiff
+
+id	numeric	421557
+recordingid	string	nd6R77539
+shotid	string	2010_117_033_R_1_3T-lg2200.tiff
+sequenceid	string	06245d57
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00015,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611059
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:51
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611059
+userkey	string	2010_117_033_R_1_3T-lg2200.tiff
+checksum	string	92e99f3046e79533f8f910b988bca3ed
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:01
+fstate	string	ok
+replicaid	numeric	2881365
+fileid	numeric	611059
+host	string	ccl03.cse.nd.edu
+path	string	bxgrid/8/0/611059_2881365.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:01
+name	string	ccl03.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d57.tiff
+
+id	numeric	421558
+recordingid	string	nd6R77540
+shotid	string	2010_117_033_R_1_4L-lg2200.tiff
+sequenceid	string	06245d58
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00016,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611060
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:52
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611060
+userkey	string	2010_117_033_R_1_4L-lg2200.tiff
+checksum	string	fcc8fd681ae8766aa5828eff15f85c37
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:01
+fstate	string	ok
+replicaid	numeric	2881368
+fileid	numeric	611060
+host	string	ccl06.cse.nd.edu
+path	string	bxgrid/0/2/611060_2881368.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:01
+name	string	ccl06.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d58.tiff
+
+id	numeric	421559
+recordingid	string	nd6R77541
+shotid	string	2010_117_033_R_1_4R-lg2200.tiff
+sequenceid	string	06245d59
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00017,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611061
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:52
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611061
+userkey	string	2010_117_033_R_1_4R-lg2200.tiff
+checksum	string	b1bc7bfaa12630d4a8ea52e8a00e056a
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:01
+fstate	string	ok
+replicaid	numeric	2881371
+fileid	numeric	611061
+host	string	ccl06.cse.nd.edu
+path	string	bxgrid/8/4/611061_2881371.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:01
+name	string	ccl06.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d59.tiff
+
+id	numeric	421560
+recordingid	string	nd6R77542
+shotid	string	2010_117_033_R_1_4T-lg2200.tiff
+sequenceid	string	06245d60
+date	string	2010-04-27 13:11:04
+format	string	tiff
+subjectid	string	nd1S06245
+eye	string	Right
+color	string	Hazel
+glasses	string	No
+collectionid	string	nd1C00042
+stageid	string	nd1T00002
+environmentid	string	nd1E00077
+sensorid	string	nd1N00006
+illuminantid	string	nd1I00015,stdI00002
+weather	string	Inside
+state	string	enrolled
+fileid	numeric	611062
+by_user	string	kwb
+lastcheck	string	2010-05-08 00:52:22
+date_added	string	2010-04-30 15:30:53
+added_by	string	chelm
+temp_collectionid	string	1272653833
+contacts	string	No
+contacts_texture	string	No
+contacts_toric	string	No
+contacts_cosmetic	string	No
+gender	string	Female
+YOB	numeric	1990
+race	string	Unknown
+fileid	numeric	611062
+userkey	string	2010_117_033_R_1_4T-lg2200.tiff
+checksum	string	dcc83fea6b7e78e2dbb3b5337a68e5b5
+extension	string	tiff
+size	numeric	307922
+lastcheck	string	2011-03-09 03:39:01
+fstate	string	ok
+replicaid	numeric	2881374
+fileid	numeric	611062
+host	string	ccl00.cse.nd.edu
+path	string	bxgrid/1/8/611062_2881374.tiff
+state	string	ok
+lastcheck	string	2011-03-09 03:39:01
+name	string	ccl00.cse.nd.edu
+state	string	ok
+groupid	numeric	3
+r_priority	numeric	2
+format	string	tiff
+file	file	/afs/crc.nd.edu/user/a/asgroi/challenge/LG2200/2010-04-27/06245/06245d60.tiff
+
