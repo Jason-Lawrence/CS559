@@ -9,7 +9,7 @@
 %
 % Output:
 %	template		    - the binary iris biometric template
-%	mask			    - the binary iris noise mask
+%	m ask			    - the binary iris noise mask
 %
 % Author: 
 % Libor Masek
